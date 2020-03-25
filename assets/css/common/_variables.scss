@@ -6,11 +6,13 @@ $dark: #13132d;
 $blue: #a5d6d7;
 $light-blue: #deedee;
 $light-orange: #fff7f3;
+$light-yellow: #fcefb8;
+$yellow: #fcd841;
 
 $theme-colors: (
-  primary: $blue,
+  primary: $yellow,
   secondary: $orange,
-  light: $light-blue
+  light: $light-yellow
 );
 
 $body-color: $dark;
